@@ -1,6 +1,6 @@
 # electron-vue demo
 项目整合了
->An vue + electron-vue +vuex+ vue-router + axios + scss + eslint + es6
+>An vue + electron-vue +vuex+ vue-router + axios + scss + eslint + es6 +elementui + iview
  
 # Install dependencies and run your app
 ```
